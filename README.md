@@ -4,7 +4,7 @@ Professional single-page Curriculum Vitae website developed for the US tech mark
 
 ## 🔗 Project Links
 - **Live Demo (GitHub Pages):**  https://sofian006.github.io/CV-Multimedia-2026-27/
-- **Figma Prototype:** https://www.figma.com/design/r1Qy89opwFcnbXQvys6Emr/CV-Multimedia?node-id=2-3&t=J5hNvNTfjMaK4Q9M-1
+- **Figma Prototype:** https://www.figma.com/design/STPSEQkI3taNcC80UbnQT9/CV-MultimediaDefinitivo?node-id=0-1&t=6cbfnrrNqVBmVLaJ-1
 
 ---
 
