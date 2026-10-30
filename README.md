@@ -10,7 +10,7 @@ Professional single-page Curriculum Vitae website developed for the US tech mark
 
 ## 📋 Project Analysis
 
-### 1. User Profile (User Persona)
+### 1. User Profile 
 * **Name / Target Profile:** Hiring managers, tech recruiters, and engineering leads in the United States looking for junior full-stack developers.
 * **Needs & Expectations:** They want to quickly review a candidate's work history, core technical stack, education, and portfolio projects without navigating through multiple pages. They value clean design, fast loading times, clear contact information, and professional English writing.
 
